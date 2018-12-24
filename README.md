@@ -1,2 +1,2 @@
 # CNN-on-MNIST
-A simple cnn to train on mnist datset and recognize handwritten digits.
+A convolutional neural network model using tensorflow to train on mnist datset and recognize handwritten digits.
